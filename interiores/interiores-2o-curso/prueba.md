@@ -65,7 +65,7 @@ description: Curso 2020-2021
 * Punto 1
 * Mla
 * sad
-* 
+
 ## **6. CONTENIDOS**
 
 | **I. INICIACIÓN AL DISEÑO DE ESPACIOS** |
@@ -186,12 +186,32 @@ Asistencia y participación en las sesiones de taller de interiores organizadas.
 
 ## 9.3.1. Ponderación de los instrumentos de evaluación para la evaluación continua
 
-| **Instrumentos** | **Ponderación** |
-| :--- | :--- |
-| Realización, presentación y entrega de entregables parciales | 20% |
-| Realización, presentación y entrega de proyecto final | 70% |
-| Participación en: taller, correcciones, debates, visitas… | 10% |
-| **Total** | **100%** |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Instrumentos</b></th>
+      <th style="text-align:left"><b>Ponderaci&#xF3;n</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Realización, presentación y entrega de entregables parciales</td>
+      <td style="text-align:left">20%</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Realización, presentación y entrega de proyecto final</td>
+      <td style="text-align:left">70%</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Participación en: taller, correcciones, debates, visitas…</td>
+      <td style="text-align:left">10%</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Total</b></td>
+      <td style="text-align:left"><b>100%</b></td>
+    </tr>
+  </tbody>
+</table>
 
 ## **9.3.2. Ponderación de instrumentos de evaluación para la evaluación con pérdida de evaluación continua**
 

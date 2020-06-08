@@ -44,6 +44,11 @@ description: Curso 2020-2021
 | CT14 Dominar la metodología de investigación en la generación de proyectos, ideas y soluciones viables.  |
 | CT16 Usar los medios y recursos a su alcance con responsabilidad hacia el patrimonio cultural y medioambiental.  |
 | CT17 Contribuir con su actividad profesional a la sensibilización social de la importancia del patrimonio cultural, su incidencia en los diferentes ámbitos y su capacidad de generar valores significativos. |
+| CT8 Desarrollar razonada y críticamente ideas y argumentos. |
+| CT11 Desarrollar en la práctica laboral una ética profesional basada en la apreciación y sensibilidad estética, medioambiental y hacia la diversidad.  |
+| CT14 Dominar la metodología de investigación en la generación de proyectos, ideas y soluciones viables.  |
+| CT16 Usar los medios y recursos a su alcance con responsabilidad hacia el patrimonio cultural y medioambiental.  |
+| CT17 Contribuir con su actividad profesional a la sensibilización social de la importancia del patrimonio cultural, su incidencia en los diferentes ámbitos y su capacidad de generar valores significativos. |
 
 \*\*\*\*
 
@@ -52,6 +57,8 @@ description: Curso 2020-2021
 | CG1 Concebir, planificar y desarrollar proyectos de diseño de acuerdo con los requisitos y condicionamientos técnicos, funcionales, estéticos y comunicativos.  |
 | CG3 Establecer relaciones entre el lenguaje formal, el lenguaje simbólico y la funcionalidad específica.  |
 | CG8 Plantear estrategias de investigación e innovación para resolver expectativas centradas en funciones, necesidades y materiales.  |
+| CG14 Valorar la dimensión del diseño como factor de igualdad y de inclusión social, y como trasmisor de valores culturales.  |
+| CG21 Dominar la metodología de investigación. |
 | CG14 Valorar la dimensión del diseño como factor de igualdad y de inclusión social, y como trasmisor de valores culturales.  |
 | CG21 Dominar la metodología de investigación. |
 
@@ -66,14 +73,11 @@ description: Curso 2020-2021
 
 ### **5. RESULTADOS DE APRENDIZAJE**
 
-* Identificar la disciplina del diseño de interiores, espacios y experiencias de usuario.
-* Identificar el proceso de diseño de interiores.
-* Identificar los sistemas que lo conforman.
-* Identificar el alcance, campos de trabajo y posibilidades del diseño de interiores.
-* Ser capaz de aplicar la metodología del proyecto de diseño de espacios.
-* Saber aplicar la metodología a casos de estudio.
-* Poder gestionar la documentación descriptiva.
-* Ser capaz de experimentar con modelos.
+* Punto 1
+* Punto 2
+* Punto 3
+* Punto 4
+* Punto 5
 
 ### **6. CONTENIDOS**
 
@@ -116,19 +120,11 @@ En estas sesiones se imparte el contenido de la asignatura proponiendo inputs de
 
 #### Actividades prácticas
 
-Se utiliza el aprendizaje basado en proyectos: situaciones en las que el alumno debe explorar y trabajar, de forma individual y/o grupal un problema práctico/caso de estudio aplicando conocimientos interdisciplinares bajo la supervisión del docente. En este caso, relativos a los sistemas que conforman el espacio y la metodología del proceso de diseño en su aplicación al diseño de espacios e interacción con el usuario en los mismos. En este caso, el proyecto incluye el desarrollo de un modelo.
-
-Presentación de proyectos: exposición del proyecto asignado a un estudiante o grupo de estudiantes.
+Escribe aquí el contenido
 
 #### Otras actividades formativas de carácter obligatorio \(jornadas, seminarios, etc.\)
 
-Taller de interiores: periodo de instrucción realizado con el objetivo de revisar y discutir los conceptos y temas presentados en las clases. En estas sesiones de apoyo al trabajo propuesto para el desarrollo de la asignatura el estudiante podrá resolver dudas y profundizar en los contenidos impartidos en las actividades teóricas y/o prácticas.
-
-Con el objetivo de profundizar en la asignatura se proponen, además, las siguientes actividades formativas de carácter obligatorio: Visita a espacios referencia del diseño de interiores en Madrid.
-
-Las conclusiones de estas visitas se incorporarán al desarrollo de los trabajos.
-
-El docente acompañará a los estudiantes en las visitas para relacionar los contenidos de las mismas con los de las actividades frontales.
+Escribe aquí el contenido
 
 ### **9. CRITERIOS E INSTRUMENTOS DE EVALUACIÓN Y CALIFICACIÓN**
 

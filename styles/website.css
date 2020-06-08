@@ -1,0 +1,6 @@
+.styled-table-1 tr td:first-child {
+    width: calc(100% - 100px);
+}
+.styled-table-1 tr td:last-child {
+    width: 100px;
+}

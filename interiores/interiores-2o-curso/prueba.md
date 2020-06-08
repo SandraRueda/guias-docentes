@@ -186,7 +186,7 @@ Asistencia y participación en las sesiones de taller de interiores organizadas.
 
 ## 9.3.1. Ponderación de los instrumentos de evaluación para la evaluación continua
 
-<table>
+<table class="styled-table-1">
   <thead>
     <tr>
       <th style="text-align:left"><b>Instrumentos</b></th>

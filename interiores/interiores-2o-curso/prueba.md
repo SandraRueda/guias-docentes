@@ -6,7 +6,7 @@ description: Curso 2020-2021
 
 ## **1. IDENTIFICADORES DE LA ASIGNATURA**
 
-| \*\*\*\* |  |
+|  |  |
 | :--- | :--- |
 | **Tipo** | Obligatoria de Especialidad |
 | **Carácter** | Teórico-práctica |

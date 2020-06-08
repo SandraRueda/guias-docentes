@@ -7,7 +7,8 @@
 * [Interiores - 1º Curso](interiores/interiores-1o-curso/README.md)
   * [Diseño de Interiores - 1º Semestre](interiores/interiores-1o-curso/diseno-de-interiores-1o-semestre.md)
   * [Modelos y Maquetas I.  Técnicas Manuales - 1º semestre](interiores/interiores-1o-curso/modelos-y-maquetas-i-tecnicas-manuales-1o-semestre.md)
-* [Interiores - 2º Curso](interiores/interiores-2o-curso.md)
+* [Interiores - 2º Curso](interiores/interiores-2o-curso/README.md)
+  * [index](interiores/interiores-2o-curso/prueba.md)
 * [Interiores - 3º Curso](interiores/interiores-3o-curso.md)
 * [Interiores - 4º Curso](interiores/interiores-4o-curso.md)
 

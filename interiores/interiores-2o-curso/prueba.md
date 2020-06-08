@@ -263,7 +263,7 @@ Las adaptaciones de los instrumentos de evaluación deberán tener en cuenta los
 
 ## Sesión 2
 
-| \*\*\*\* | TEMA 2: La mirada del diseñador: diseño estratégico |  |  |
+|  | TEMA 2: La mirada del diseñador: diseño estratégico |  |  |
 | :--- | :--- | :--- | :--- |
 | **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 1 hora | 1 hora |
 | **Actividades prácticas** | Lanzamiento proyecto | 1 hora | 3 horas |
@@ -272,7 +272,7 @@ Las adaptaciones de los instrumentos de evaluación deberán tener en cuenta los
 
 ## Sesión 3
 
-| \*\*\*\* | TEMA 2: La mirada del diseñador: diseño estratégico |  |  |
+|  | TEMA 2: La mirada del diseñador: diseño estratégico |  |  |
 | :--- | :--- | :--- | :--- |
 | **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 1 hora | 1 hora |
 | **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
@@ -281,7 +281,7 @@ Las adaptaciones de los instrumentos de evaluación deberán tener en cuenta los
 
 ## Sesión 4
 
-| \*\*\*\* | **TEMA 3: Los sistemas del espacio: usuario, morfología, materia, topología y campo** |  |  |
+|  | **TEMA 3: Los sistemas del espacio: usuario, morfología, materia, topología y campo** |  |  |
 | :--- | :--- | :--- | :--- |
 | **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 1 hora | 1 hora |
 | **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
@@ -290,7 +290,7 @@ Las adaptaciones de los instrumentos de evaluación deberán tener en cuenta los
 
 ## Sesión 5
 
-| \*\*\*\* | **TEMA 4: Metodología del proceso de diseño: crítica del proceso** |  |  |
+|  | **TEMA 4: Metodología del proceso de diseño: crítica del proceso** |  |  |
 | :--- | :--- | :--- | :--- |
 | **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 1 hora | 1 hora |
 | **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
@@ -299,7 +299,7 @@ Las adaptaciones de los instrumentos de evaluación deberán tener en cuenta los
 
 ## Sesión 6
 
-| \*\*\*\* | **TEMA 4: Metodología del proceso de diseño: crítica del proceso** |  |  |
+|  | **TEMA 4: Metodología del proceso de diseño: crítica del proceso** |  |  |
 | :--- | :--- | :--- | :--- |
 | **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 1 hora | 1 hora |
 | **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
@@ -308,7 +308,7 @@ Las adaptaciones de los instrumentos de evaluación deberán tener en cuenta los
 
 ## Sesión 7
 
-| \*\*\*\* | **TEMA 5: Iniciación al diseño estratégico** |  |  |
+|  | **TEMA 5: Iniciación al diseño estratégico** |  |  |
 | :--- | :--- | :--- | :--- |
 | **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 1 hora | 1 hora |
 | **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
@@ -317,7 +317,7 @@ Las adaptaciones de los instrumentos de evaluación deberán tener en cuenta los
 
 ## Sesión 8
 
-| \*\*\*\* | **TEMA 5: Iniciación al diseño estratégico** |  |  |
+|  | **TEMA 5: Iniciación al diseño estratégico** |  |  |
 | :--- | :--- | :--- | :--- |
 | **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 0,5 horas | 1 hora |
 | **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
@@ -326,7 +326,7 @@ Las adaptaciones de los instrumentos de evaluación deberán tener en cuenta los
 
 ## Sesión 9
 
-| \*\*\*\* | **TEMA 6: El briefing y los grados de relación: usuario-objeto-espacio** |  |  |
+|  | **TEMA 6: El briefing y los grados de relación: usuario-objeto-espacio** |  |  |
 | :--- | :--- | :--- | :--- |
 | **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 0,5 horas | 1 hora |
 | **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
@@ -335,7 +335,7 @@ Las adaptaciones de los instrumentos de evaluación deberán tener en cuenta los
 
 ## Sesión 10
 
-| \*\*\*\* | **TEMA 6: El briefing y los grados de relación: usuario-objeto-espacio** |  |  |
+|  | **TEMA 6: El briefing y los grados de relación: usuario-objeto-espacio** |  |  |
 | :--- | :--- | :--- | :--- |
 | **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 0,5 horas | 1 hora |
 | **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
@@ -344,7 +344,7 @@ Las adaptaciones de los instrumentos de evaluación deberán tener en cuenta los
 
 ## Sesión 11
 
-| \*\*\*\* | **TEMA 7: El diseño centrado en el usuario y la experiencia de usuario** |  |  |
+|  | **TEMA 7: El diseño centrado en el usuario y la experiencia de usuario** |  |  |
 | :--- | :--- | :--- | :--- |
 | **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 1 hora | 1 hora |
 | **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
@@ -353,7 +353,7 @@ Las adaptaciones de los instrumentos de evaluación deberán tener en cuenta los
 
 ## Sesión 12
 
-| \*\*\*\* | **TEMA 7: El diseño centrado en el usuario y la experiencia de usuario** |  |  |
+|  | **TEMA 7: El diseño centrado en el usuario y la experiencia de usuario** |  |  |
 | :--- | :--- | :--- | :--- |
 | **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 1 hora | 1 hora |
 | **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
@@ -362,9 +362,9 @@ Las adaptaciones de los instrumentos de evaluación deberán tener en cuenta los
 
 ## Sesión 13
 
-| \*\*\*\* | **TEMA 8: Proceso de diseño: pensar, construir, comunicar** |  |  |
+|  | **TEMA 8: Proceso de diseño: pensar, construir, comunicar** |  |  |
 | :--- | :--- | :--- | :--- |
-| \*\*\*\* | \*\*\*\* |  |  |
+|  |  |  |  |
 | **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 1 hora | 1 hora |
 | **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
 | **Otras actividades formativas** | Taller de interiores | 2 horas |  |
@@ -372,7 +372,7 @@ Las adaptaciones de los instrumentos de evaluación deberán tener en cuenta los
 
 ## Sesión 14
 
-| \*\*\*\* | **TEMA 8: Proceso de diseño: pensar, construir, comunicar** |  |  |
+|  | **TEMA 8: Proceso de diseño: pensar, construir, comunicar** |  |  |
 | :--- | :--- | :--- | :--- |
 | **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 0,5 horas | 1 hora |
 | **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
@@ -381,14 +381,14 @@ Las adaptaciones de los instrumentos de evaluación deberán tener en cuenta los
 
 ## Sesión 15
 
-| \*\*\*\* | **ENTREGA FINAL Y PRESENTACIÓN PROYECTOS** |  |  |
+|  | **ENTREGA FINAL Y PRESENTACIÓN PROYECTOS** |  |  |
 | :--- | :--- | :--- | :--- |
 | **Otras actividades formativas** | Taller de interiores | 4 horas |  |
 | **Evaluación** | Presentación final proyectos alumnos | 2,5 horas | 6 horas |
 
 ## Sesión 16
 
-| \*\*\*\* | **ENTREGA DE NOTAS Y EVALUACIÓN** |  |  |
+|  | **ENTREGA DE NOTAS Y EVALUACIÓN** |  |  |
 | :--- | :--- | :--- | :--- |
 | **Evaluación** | Presentación final proyectos alumnos | 2,5 horas |  |
 
@@ -396,25 +396,25 @@ Las adaptaciones de los instrumentos de evaluación deberán tener en cuenta los
 
 ## **11.1. Bibliografía general**
 
-| \*\*\*\* | \*\*\*\* |
+|  |  |
 | :--- | :--- |
 | **Título** | Towards a New Interior: An Anthology of Interior Design Theory |
 | **Autor** | Lois Weinthal |
 | **Editorial** | Princeton Architectural Press |
 
-| \*\*\*\* | \*\*\*\* |
+|  |  |
 | :--- | :--- |
 | **Título** | Change by design: How Design Thinking Transforms Organizations and Inspires Innovation |
 | **Autor** | Tim Brown |
 | **Editorial** | HarperBusiness |
 
-| \*\*\*\* | \*\*\*\* |
+|  |  |
 | :--- | :--- |
 | **Título** | El rol del diseñador                                                                                                            _\*\*_ |
 | **Autor** | Ezio Manzini |
 | **Editorial** | Experimenta |
 
-| \*\*\*\* | \*\*\*\* |
+|  |  |
 | :--- | :--- |
 | **Título** | La crítica poética como instrumento del proyecto arquitectónico |
 | **Autor** | Beatriz Amann |
@@ -422,19 +422,19 @@ Las adaptaciones de los instrumentos de evaluación deberán tener en cuenta los
 
 ## **11.2. Bibliografía complementaria**
 
-| \*\*\*\* | \*\*\*\* |
+|  |  |
 | :--- | :--- |
 | **Título** | Color, espacio y estilo: Detalles para diseñadores de interiores |
 | **Autor** | Mimi Love, Chris Grimley |
 | **Editorial** | Gustavo Gili |
 
-| \*\*\*\* | \*\*\*\* |
+|  |  |
 | :--- | :--- |
 | **Título** | Arte de Proyectar en Arquitectura |
 | **Autor** | Ernst Neufert |
 | **Editorial** | Gustavo Gili |
 
-| \*\*\*\* | \*\*\*\* |
+|  |  |
 | :--- | :--- |
 | **Título** | Las dimensiones humanas en los espacios interiores |
 | **Autor** | Julius Panero, Martin Zelnik |

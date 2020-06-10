@@ -4,3 +4,23 @@
 .styled-table-1 tr td:last-child {
     width: 100px;
 }
+
+figure {
+    width: 100%;
+}
+
+p, span, a, th, tr, td {
+    font-size: 12px;
+}
+
+h2 {
+    font-size: 17px;
+}
+
+table, tr, td {
+    border: 2px solid #ddd;
+}
+
+table tr td:first-child:not(:last-child) {
+    background-color: #efefef;
+}

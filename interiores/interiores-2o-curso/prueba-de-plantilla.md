@@ -61,36 +61,36 @@ description: Curso 2020-2021
 ## **5. RESULTADOS DE APRENDIZAJE**
 
 * Punto 1
-* Mla
-* sad
+* Punto 2
+* Punto 3
 
 ## **6. CONTENIDOS**
 
 | **I. INICIACIÓN AL DISEÑO DE ESPACIOS** |
 | :--- |
-| Tema 1. El rol del diseñador de espacios |
-| Tema 2. La mirada del diseñador. Diseño estratégico |
-| Tema 3. Los sistemas del espacio: usuario, morfología, materia, topología y campo |
-| Tema 4. Metodología del proceso de diseño: crítica del proceso |
-| Tema 5. Iniciación al diseño estratégico |
+| Tema 1. Escribe aquí tu texto |
+| Tema 2. Escribe aquí tu texto |
+| Tema 3. Escribe aquí tu texto |
+| Tema 4. Escribe aquí tu texto |
+| Tema 5. Escribe aquí tu texto |
 
 | **II.- PROYECTO** |
 | :--- |
-| Tema 6. El briefing y los grados de relación: usuario-objeto-espacio |
-| Tema 7. El diseño centrado en el usuario y la experiencia de usuario |
-| Tema 8. Proceso de diseño: pensar, construir, comunicar |
+| Tema 6. Escribe aquí tu texto |
+| Tema 7. Escribe aquí tu texto |
+| Tema 8. Escribe aquí tu texto |
 
 ## **7. PLANIFICACIÓN TEMPORAL DEL TRABAJO DEL ESTUDIANTE**
 
 | **Tipo de actividad** | **Total horas** |
 | :--- | :--- |
-| Actividades teóricas | 13 horas |
-| Actividades prácticas | 13 horas |
-| Otras actividades formativas de carácter obligatorio \(jornadas, seminarios, etc.\) | 32 horas |
-| Realización de pruebas | 14 horas |
-| Horas de trabajo del estudiante | 15 horas |
-| Preparación prácticas | 27 horas |
-| Realización de pruebas | 6 horas |
+| Actividades teóricas | - horas |
+| Actividades prácticas | - horas |
+| Otras actividades formativas de carácter obligatorio \(jornadas, seminarios, etc.\) | - horas |
+| Realización de pruebas | - horas |
+| Horas de trabajo del estudiante | - horas |
+| Preparación prácticas | - horas |
+| Realización de pruebas | - horas |
 | **Total de horas de trabajo del estudiante** | **120 horas** |
 
 ## **8. METODOLOGÍA**
@@ -195,7 +195,7 @@ Asistencia y participación en las sesiones de taller de interiores organizadas.
 
 | **Instrumentos** | **Ponderación** |
 | :--- | :--- |
-| Realización, presentación y entrega de proyecto específico para la evaluación con pérdida de evaluación continua | **90%** |
+| Realización, presentación y entrega de proyecto específico para la evaluación con pérdida de evaluación continua | 90% |
 | **Total** | **100%** |
 
 ## **9.3.3. Ponderación de instrumentos de evaluación para la evaluación extraordinaria**
@@ -261,134 +261,134 @@ Las adaptaciones de los instrumentos de evaluación deberán tener en cuenta los
 
 ## Sesión 2
 
-|  | TEMA 2: La mirada del diseñador: diseño estratégico |  |  |
+|  | **TEMA 2: Nombre del tema** |  |  |
 | :--- | :--- | :--- | :--- |
-| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 1 hora | 1 hora |
-| **Actividades prácticas** | Lanzamiento proyecto | 1 hora | 3 horas |
-| **Otras actividades formativas** | Taller de interiores | 2 horas |  |
-| **Evaluación** | Revisión proyecto | 0,5 horas |  |
+| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | - horas | - horas |
+| **Actividades prácticas** | Lanzamiento proyecto | - horas | - horas |
+| **Otras actividades formativas** | Taller de interiores | - horas |  |
+| **Evaluación** | Revisión proyecto | - horas |  |
 
 ## Sesión 3
 
-|  | TEMA 2: La mirada del diseñador: diseño estratégico |  |  |
+|  | **TEMA 2: Nombre del tema** |  |  |
 | :--- | :--- | :--- | :--- |
-| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 1 hora | 1 hora |
-| **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
-| **Otras actividades formativas** | Visita organizada espacio diseño interiores Madrid | 2 horas |  |
-| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | 0,5 horas |  |
+| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | - horas | - horas |
+| **Actividades prácticas** | Trabajo práctico/proyecto | - horas | - horas |
+| **Otras actividades formativas** | Visita organizada espacio diseño interiores Madrid | - horas |  |
+| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | - horas |  |
 
 ## Sesión 4
 
 |  | **TEMA 3: Los sistemas del espacio: usuario, morfología, materia, topología y campo** |  |  |
 | :--- | :--- | :--- | :--- |
-| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 1 hora | 1 hora |
-| **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
-| **Otras actividades formativas** | Taller de interiores | 2 horas |  |
-| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | 0,5 horas |  |
+| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | - horas | - horas |
+| **Actividades prácticas** | Trabajo práctico/proyecto | - horas | - horas |
+| **Otras actividades formativas** | Taller de interiores | - horas |  |
+| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | - horas |  |
 
 ## Sesión 5
 
 |  | **TEMA 4: Metodología del proceso de diseño: crítica del proceso** |  |  |
 | :--- | :--- | :--- | :--- |
-| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 1 hora | 1 hora |
-| **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
-| **Otras actividades formativas** | Visita organizada espacio diseño interiores Madrid | 2 horas |  |
-| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | 0,5 horas |  |
+| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | - horas | - horas |
+| **Actividades prácticas** | Trabajo práctico/proyecto | - horas | - horas |
+| **Otras actividades formativas** | Visita organizada espacio diseño interiores Madrid | - horas |  |
+| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | - horas |  |
 
 ## Sesión 6
 
 |  | **TEMA 4: Metodología del proceso de diseño: crítica del proceso** |  |  |
 | :--- | :--- | :--- | :--- |
-| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 1 hora | 1 hora |
-| **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
-| **Otras actividades formativas** | Taller de interiores | 2 horas |  |
-| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | 0,5 horas |  |
+| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | - horas | - horas |
+| **Actividades prácticas** | Trabajo práctico/proyecto | - horas | - horas |
+| **Otras actividades formativas** | Taller de interiores | - horas |  |
+| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | - horas |  |
 
 ## Sesión 7
 
 |  | **TEMA 5: Iniciación al diseño estratégico** |  |  |
 | :--- | :--- | :--- | :--- |
-| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 1 hora | 1 hora |
-| **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
-| **Otras actividades formativas** | Taller de interiores | 2 horas |  |
-| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | 0,5 horas |  |
+| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | - horas | - horas |
+| **Actividades prácticas** | Trabajo práctico/proyecto | - horas | - horas |
+| **Otras actividades formativas** | Taller de interiores | - horas |  |
+| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | - horas |  |
 
 ## Sesión 8
 
 |  | **TEMA 5: Iniciación al diseño estratégico** |  |  |
 | :--- | :--- | :--- | :--- |
-| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 0,5 horas | 1 hora |
-| **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
-| **Otras actividades formativas** | Taller de interiores | 2 horas |  |
-| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | 1 hora |  |
+| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | - horas | - horas |
+| **Actividades prácticas** | Trabajo práctico/proyecto | - horas | - horas |
+| **Otras actividades formativas** | Taller de interiores | - horas |  |
+| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | - horas |  |
 
 ## Sesión 9
 
 |  | **TEMA 6: El briefing y los grados de relación: usuario-objeto-espacio** |  |  |
 | :--- | :--- | :--- | :--- |
-| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 0,5 horas | 1 hora |
-| **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
-| **Otras actividades formativas** | Taller de interiores | 2 horas |  |
-| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | 1 hora |  |
+| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | - horas | - horas |
+| **Actividades prácticas** | Trabajo práctico/proyecto | - horas | - horas |
+| **Otras actividades formativas** | Taller de interiores | - horas |  |
+| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | - horas |  |
 
 ## Sesión 10
 
 |  | **TEMA 6: El briefing y los grados de relación: usuario-objeto-espacio** |  |  |
 | :--- | :--- | :--- | :--- |
-| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 0,5 horas | 1 hora |
-| **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
-| **Otras actividades formativas** | Visita organizada espacio diseño interiores Madrid | 2 horas |  |
-| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | 1 hora |  |
+| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | - horas | - horas |
+| **Actividades prácticas** | Trabajo práctico/proyecto | - horas | - horas |
+| **Otras actividades formativas** | Visita organizada espacio diseño interiores Madrid | - horas |  |
+| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | - horas |  |
 
 ## Sesión 11
 
 |  | **TEMA 7: El diseño centrado en el usuario y la experiencia de usuario** |  |  |
 | :--- | :--- | :--- | :--- |
-| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 1 hora | 1 hora |
-| **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
-| **Otras actividades formativas** | Taller de interiores | 2 horas |  |
-| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | 0,5 horas |  |
+| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | - horas | - horas |
+| **Actividades prácticas** | Trabajo práctico/proyecto | - horas | - horas |
+| **Otras actividades formativas** | Taller de interiores | - horas |  |
+| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | - horas |  |
 
 ## Sesión 12
 
 |  | **TEMA 7: El diseño centrado en el usuario y la experiencia de usuario** |  |  |
 | :--- | :--- | :--- | :--- |
-| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 1 hora | 1 hora |
-| **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
-| **Otras actividades formativas** | Taller de interiores | 2 horas |  |
-| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | 0,5 horas |  |
+| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | - horas | - horas |
+| **Actividades prácticas** | Trabajo práctico/proyecto | - horas | - horas |
+| **Otras actividades formativas** | Taller de interiores | - horas |  |
+| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | - horas |  |
 
 ## Sesión 13
 
 |  | **TEMA 8: Proceso de diseño: pensar, construir, comunicar** |  |  |
 | :--- | :--- | :--- | :--- |
 |  |  |  |  |
-| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 1 hora | 1 hora |
-| **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
-| **Otras actividades formativas** | Taller de interiores | 2 horas |  |
-| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | 0,5 horas |  |
+| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | - horas | - horas |
+| **Actividades prácticas** | Trabajo práctico/proyecto | - horas | - horas |
+| **Otras actividades formativas** | Taller de interiores | - horas |  |
+| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | - horas |  |
 
 ## Sesión 14
 
 |  | **TEMA 8: Proceso de diseño: pensar, construir, comunicar** |  |  |
 | :--- | :--- | :--- | :--- |
-| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | 0,5 horas | 1 hora |
-| **Actividades prácticas** | Trabajo práctico/proyecto | 1 hora | 2 horas |
-| **Otras actividades formativas** | Taller de interiores | 2 horas |  |
-| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | 1 hora |  |
+| **Actividades teóricas** | Clase magistral en la que se desarrollaran los contenidos concretos de la sección \(Diseño estratégico\). El docente utilizará documentos e imágenes que analizará utilizando las TICs que sean necesarias. | - horas | - horas |
+| **Actividades prácticas** | Trabajo práctico/proyecto | - horas | - horas |
+| **Otras actividades formativas** | Taller de interiores | - horas |  |
+| **Evaluación** | Revisión trabajo práctico/proyecto. Actitud proactiva en el aula compartiendo los conocimientos, experiencias y herramientas aportadas en la visita organizada | - horas |  |
 
 ## Sesión 15
 
 |  | **ENTREGA FINAL Y PRESENTACIÓN PROYECTOS** |  |  |
 | :--- | :--- | :--- | :--- |
-| **Otras actividades formativas** | Taller de interiores | 4 horas |  |
-| **Evaluación** | Presentación final proyectos alumnos | 2,5 horas | 6 horas |
+| **Otras actividades formativas** | Taller de interiores | - horas |  |
+| **Evaluación** | Presentación final proyectos alumnos | - horas | - horas |
 
 ## Sesión 16
 
 |  | **ENTREGA DE NOTAS Y EVALUACIÓN** |  |  |
 | :--- | :--- | :--- | :--- |
-| **Evaluación** | Presentación final proyectos alumnos | 2,5 horas |  |
+| **Evaluación** | Presentación final proyectos alumnos | - horas |  |
 
 ## **11. RECURSOS Y MATERIALES DIDÁCTICOS**
 
@@ -396,47 +396,47 @@ Las adaptaciones de los instrumentos de evaluación deberán tener en cuenta los
 
 |  |  |
 | :--- | :--- |
-| **Título** | Towards a New Interior: An Anthology of Interior Design Theory |
-| **Autor** | Lois Weinthal |
-| **Editorial** | Princeton Architectural Press |
+| **Título** |  |
+| **Autor** |  |
+| **Editorial** |  |
 
 |  |  |
 | :--- | :--- |
-| **Título** | Change by design: How Design Thinking Transforms Organizations and Inspires Innovation |
-| **Autor** | Tim Brown |
-| **Editorial** | HarperBusiness |
+| **Título** |  |
+| **Autor** |  |
+| **Editorial** |  |
 
 |  |  |
 | :--- | :--- |
-| **Título** | El rol del diseñador                                                                                                            _\*\*_ |
-| **Autor** | Ezio Manzini |
-| **Editorial** | Experimenta |
+| **Título** |  |
+| **Autor** |  |
+| **Editorial** |  |
 
 |  |  |
 | :--- | :--- |
-| **Título** | La crítica poética como instrumento del proyecto arquitectónico |
-| **Autor** | Beatriz Amann |
-| **Editorial** | Diseño Editorial |
+| **Título** |  |
+| **Autor** |  |
+| **Editorial** |  |
 
 ## **11.2. Bibliografía complementaria**
 
 |  |  |
 | :--- | :--- |
-| **Título** | Color, espacio y estilo: Detalles para diseñadores de interiores |
-| **Autor** | Mimi Love, Chris Grimley |
-| **Editorial** | Gustavo Gili |
+| **Título** |  |
+| **Autor** |  |
+| **Editorial** |  |
 
 |  |  |
 | :--- | :--- |
-| **Título** | Arte de Proyectar en Arquitectura |
-| **Autor** | Ernst Neufert |
-| **Editorial** | Gustavo Gili |
+| **Título** |  |
+| **Autor** |  |
+| **Editorial** |  |
 
 |  |  |
 | :--- | :--- |
-| **Título** | Las dimensiones humanas en los espacios interiores |
-| **Autor** | Julius Panero, Martin Zelnik |
-| **Editorial** | Gustavo Gili |
+| **Título** |  |
+| **Autor** |  |
+| **Editorial** |  |
 
 ## **11.3. Direcciones web de interés**
 
@@ -451,6 +451,7 @@ Las adaptaciones de los instrumentos de evaluación deberán tener en cuenta los
 
 |  |
 | :--- |
-| Cinta métrica 3 m, escuadra y cartabón |
-| Cinta métrica 3 m, escuadra y cartabón |
+| Ej: Cinta métrica 3 m, escuadra y cartabón |
+| Escribe aquí el texto |
+| Escribe aquí el texto |
 

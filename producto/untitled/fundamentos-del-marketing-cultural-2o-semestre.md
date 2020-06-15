@@ -438,6 +438,12 @@ Las adaptaciones de los instrumentos de evaluación deberán tener en cuenta los
 | **Autor** |  |
 | **Editorial** |  |
 
+|  |  |
+| :--- | :--- |
+| **Título** |  |
+| **Autor** |  |
+| **Editorial** |  |
+
 ## **11.3. Direcciones web de interés**
 
 |  |

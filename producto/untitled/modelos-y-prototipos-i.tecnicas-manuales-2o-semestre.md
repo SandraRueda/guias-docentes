@@ -28,7 +28,7 @@ description: Curso 2020-2021
 
 | **Apellidos y nombre** | **Correo electrónico** | **Grupos** |
 | :--- | :--- | :--- |
-| Amann, Beatriz |  | Todos |
+| Fernández Pello, Teresa  |  | Todos |
 
 ## **4. COMPETENCIAS**
 

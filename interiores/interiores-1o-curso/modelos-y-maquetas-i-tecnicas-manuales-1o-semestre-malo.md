@@ -2,7 +2,9 @@
 description: Curso 2020-2021
 ---
 
-# Modelos y Maquetas I.  Técnicas Manuales - 1º semestre
+# Modelos y Maquetas I.  Técnicas Manuales -MALO
+
+![](../../.gitbook/assets/artboard-2-100.jpg)
 
 <table>
   <thead>

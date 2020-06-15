@@ -2,7 +2,7 @@
 description: Curso 2020-2021
 ---
 
-# Modelos y Maquetas I. Técnicas Manuales - 1º semestre
+# Modelos y Maquetas I. Técnicas Manuales - 1º Semestre
 
 ## **1. IDENTIFICADORES DE LA ASIGNATURA**
 
